@@ -1,0 +1,6 @@
+C:\Users\leahm\OneDrive\Documents\PG!2\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+C:\Users\leahm\OneDrive\Documents\PG!2\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+C:\Users\leahm\OneDrive\Documents\PG!2\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+C:\Users\leahm\OneDrive\Documents\PG!2\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojAssemblyReference.cache
+C:\Users\leahm\OneDrive\Documents\PG!2\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+C:\Users\leahm\OneDrive\Documents\PG!2\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb
